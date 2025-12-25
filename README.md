@@ -3,9 +3,6 @@
 This project reverse engineers, parses, and decrypts a custom KeePass `.kdb`
 file format used in the CT2018 reverse engineering challenge.
 
-The focus of this project is defensive binary parsing, safe pointer traversal,
-and stream-cipher decryption rather than exploitation.
-
 ---
 
 ## Overview
